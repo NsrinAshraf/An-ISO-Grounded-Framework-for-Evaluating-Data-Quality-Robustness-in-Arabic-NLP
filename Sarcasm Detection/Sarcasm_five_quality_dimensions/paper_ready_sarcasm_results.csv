@@ -1,0 +1,31 @@
+Model,Dimension,Severity_Percent,Macro-F1,Accuracy,Delta-F1,Realized Severity
+AraBERTv2,Completeness,10,59.15 ± 0.45,66.59 ± 0.43,0.46 ± 0.45,10.00%
+AraBERTv2,Completeness,20,58.45 ± 0.94,65.64 ± 1.05,1.16 ± 0.94,20.05%
+AraBERTv2,Completeness,30,58.26 ± 0.62,65.54 ± 0.66,1.35 ± 0.62,30.04%
+AraBERTv2,Consistency,10,61.06 ± 0.48,69.20 ± 0.54,-1.46 ± 0.48,9.97%
+AraBERTv2,Consistency,20,61.40 ± 0.72,69.91 ± 0.83,-1.79 ± 0.72,19.99%
+AraBERTv2,Consistency,30,61.24 ± 0.80,70.41 ± 0.63,-1.64 ± 0.80,29.99%
+AraBERTv2,Textual Accuracy,10,58.53 ± 0.65,66.01 ± 0.61,1.07 ± 0.65,10.14%
+AraBERTv2,Textual Accuracy,20,58.07 ± 0.99,65.49 ± 1.06,1.54 ± 0.99,20.06%
+AraBERTv2,Textual Accuracy,30,57.15 ± 0.60,64.27 ± 0.76,2.45 ± 0.60,29.91%
+AraBERTv2,Understandability,10,59.54 ± 0.43,67.50 ± 0.43,0.07 ± 0.43,10.01%
+AraBERTv2,Understandability,20,59.69 ± 0.37,67.70 ± 0.41,-0.08 ± 0.37,20.02%
+AraBERTv2,Understandability,30,59.50 ± 0.41,67.51 ± 0.54,0.11 ± 0.41,30.05%
+AraBERTv2,Validity,10,61.75 ± 1.00,76.74 ± 0.42,-2.14 ± 1.00,10.01%
+AraBERTv2,Validity,20,62.52 ± 1.59,83.34 ± 0.83,-2.91 ± 1.59,20.03%
+AraBERTv2,Validity,30,59.63 ± 0.99,85.09 ± 0.40,-0.02 ± 0.99,30.06%
+Twitter-RoBERTa-Irony,Completeness,10,48.08 ± 0.40,53.77 ± 0.42,1.63 ± 0.40,10.00%
+Twitter-RoBERTa-Irony,Completeness,20,47.03 ± 0.50,52.03 ± 0.49,2.68 ± 0.50,20.05%
+Twitter-RoBERTa-Irony,Completeness,30,45.31 ± 0.35,49.71 ± 0.28,4.40 ± 0.35,30.04%
+Twitter-RoBERTa-Irony,Consistency,10,50.33 ± 0.45,58.20 ± 0.34,-0.62 ± 0.45,9.97%
+Twitter-RoBERTa-Irony,Consistency,20,51.00 ± 0.83,59.99 ± 0.62,-1.29 ± 0.83,19.99%
+Twitter-RoBERTa-Irony,Consistency,30,51.26 ± 0.54,61.41 ± 0.49,-1.55 ± 0.54,29.99%
+Twitter-RoBERTa-Irony,Textual Accuracy,10,49.36 ± 0.25,56.13 ± 0.31,0.35 ± 0.25,10.14%
+Twitter-RoBERTa-Irony,Textual Accuracy,20,49.66 ± 0.49,56.54 ± 0.57,0.05 ± 0.49,20.06%
+Twitter-RoBERTa-Irony,Textual Accuracy,30,49.34 ± 0.24,56.30 ± 0.27,0.37 ± 0.24,29.91%
+Twitter-RoBERTa-Irony,Understandability,10,49.67 ± 0.32,56.37 ± 0.32,0.04 ± 0.32,10.01%
+Twitter-RoBERTa-Irony,Understandability,20,49.85 ± 0.39,56.70 ± 0.46,-0.14 ± 0.39,20.02%
+Twitter-RoBERTa-Irony,Understandability,30,49.42 ± 0.22,56.31 ± 0.31,0.29 ± 0.22,30.05%
+Twitter-RoBERTa-Irony,Validity,10,51.91 ± 1.67,70.41 ± 0.79,-2.20 ± 1.67,10.01%
+Twitter-RoBERTa-Irony,Validity,20,49.30 ± 0.86,80.51 ± 0.64,0.41 ± 0.86,20.03%
+Twitter-RoBERTa-Irony,Validity,30,47.83 ± 0.81,83.94 ± 0.45,1.88 ± 0.81,30.06%
