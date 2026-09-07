@@ -1,0 +1,11 @@
+Model,Dimension,Mean_Delta_F1
+AraBERTv2,Validity,2.5117103220567034
+AraBERTv2,Completeness,1.7751492967379103
+AraBERTv2,Consistency,1.0146219008831163
+AraBERTv2,Understandability,0.22722212585910043
+AraBERTv2,Textual Accuracy,0.07164259647457259
+Twitter-RoBERTa-Irony,Validity,16.388253752443614
+Twitter-RoBERTa-Irony,Completeness,1.9498477355206927
+Twitter-RoBERTa-Irony,Consistency,1.7840684387691959
+Twitter-RoBERTa-Irony,Textual Accuracy,0.03833135548811558
+Twitter-RoBERTa-Irony,Understandability,0.035173820441019764
